@@ -65,4 +65,4 @@ now
 
 ##  License
 
-:memo: This project is under the MIT license. See the [LICENSE](https://github.com/wilsonmjunior/go-finances-api/blob/master/LICENSE) for more information.
+:memo: This project is under the MIT license. See the [LICENSE](https://github.com/wilsonmjunior/go-finances-web/blob/master/LICENSE) for more information.
